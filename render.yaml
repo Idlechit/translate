@@ -1,7 +1,1 @@
-services:
-  - type: web
-    name: my-app
-    env: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "streamlit run app.py" # or the main entry point of your app
-    region: us # can be "us" or "eu"
+
